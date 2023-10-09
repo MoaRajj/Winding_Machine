@@ -10,17 +10,17 @@ A notable challenge encountered during this project was the need to effectively 
 
 ## Images:
 <p align="center" width="100%">
-  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/3dce6865-8873-41d2-b09b-c49eea80025c">
-  <img width="30%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/13c8c244-1d48-497e-a919-8a437b3bab11">
-  <img width="30%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/4cb6d595-f9fe-4022-bd30-a29f02bc11ba">
-  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/4aab254d-c7da-44c5-a752-8a40ac57b241">
+  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/0494a687-ff66-4485-bbab-d7a2f0623a5c">
+  <img width="30%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/cdfc3267-5328-4dbf-9b23-8579548b757e">
+  <img width="30%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/e83813d3-24ac-4524-8f46-b7f43e577fcf">
+  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/9be651c0-5ba7-4f91-b939-8603d17bb02e">
 </p>
 
 ## Addition
 Another system was made later to create a path for the strands before winding, which is four stepper motors each two of them rolling in one direction and their speed are controlled by a potentiometer.
 <p align="center" width="100%">
-  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/47109834-ca25-43dc-a7a3-4e576d475c9e">
-  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/aea7045d-0abb-4737-ba8b-ea7f2543aa5f">
+  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/30816535-af0b-43d9-a50b-29a7debd1137">
+  <img width="80%" src="https://github.com/MoaRajj/Winding_Machine/assets/93192572/4f827898-5278-4983-b950-4f11f944d5dd">
 </p>
 Click on the following image to watch the video :point_down: .
 <div align="center">
